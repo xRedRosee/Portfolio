@@ -6,9 +6,9 @@
             <article class="about-section-article">
                 <div>
                     <p class="section-default-text" data-select="section-text">
-                        A 20 year old student living in Limburg, the Netherlands that's
-                        currently studying <span class="highlighted">ICT & Media Design</span>
-                        at Fontys University of Applied Sciences.</p>
+                        A 22 year old student living in Limburg, the Netherlands that's
+                        currently pursuing the Master's <span class="highlighted">Communication & Information Sciences </span>
+                        at Tilburg University.</p>
                 </div>
                 <div>
                     <p class="section-default-text" data-select="section-text">
